@@ -9,7 +9,7 @@ Git - versions control system determined to simplify control and follow-up of di
 4. **git status** - *shows status of files: whether a file is chamged, tracked or untracked*
 5. **git log** - *shows logs with all applied commits*
 6. **git diff** - *shows difference between files, commits or branches*
-7. **git checkout** - *switches between different versions of files, commits or branches (it is required to specify a name of object you are willing to switch to)
+7. **git checkout** - *switches between different versions of files, commits or branches (it is required to specify a name of object you are willing to switch to)*
 
 For better understanding of Git functionality please refer to [Git Website](https://git-scm.com)
 
