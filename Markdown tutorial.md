@@ -72,3 +72,7 @@ Just enclose e-mail adress or URL in angle brackets <>.
 For example: if you found this tutorial useful, please send your feedback to <ilyakozlovmk91@gmail.com>
 
 For better understanding of Markdown Syntax please refer to [Markdown Website](https://www.markdownguide.org)
+
+27/07/2022
+
+Clonned repository from GitHub
