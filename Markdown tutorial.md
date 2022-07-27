@@ -76,3 +76,11 @@ For better understanding of Markdown Syntax please refer to [Markdown Website](h
 27/07/2022
 
 Clonned repository from GitHub
+
+Here belowe are some short explanations of commands used to download and upload remote repositories:
+
+**git clone (link to remote repository)** - *creates a clone of remote repository on your device*
+
+**git pull** - *downloads remote repository and merges it with one currentlly used on device*
+
+**git push** - *uploads repository from device to remote repository*
