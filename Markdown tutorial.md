@@ -84,3 +84,6 @@ Here belowe are some short explanations of commands used to download and upload 
 **git pull** - *downloads remote repository and merges it with one currentlly used on device*
 
 **git push** - *uploads repository from device to remote repository*
+
+## It's obvious that studying of a programming requires a lot of time and practice
+So just keep working!
