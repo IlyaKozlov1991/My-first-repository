@@ -87,3 +87,5 @@ Here belowe are some short explanations of commands used to download and upload 
 
 ## It's obvious that studying of a programming requires a lot of time and practice
 So just keep working!
+
+30/07/2022
