@@ -89,3 +89,7 @@ Here belowe are some short explanations of commands used to download and upload 
 So just keep working!
 
 30/07/2022
+
+Still working on pull-push
+
+IMPORTANT NOTE: after clonning of remote repository it is required to change directory (without it git will try to call directory which doessnt exist). Need to call **cd (name of directory from downloaded repository)**
