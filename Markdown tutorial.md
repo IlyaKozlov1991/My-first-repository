@@ -85,7 +85,7 @@ Here belowe are some short explanations of commands used to download and upload 
 
 **git push** - *uploads repository from device to remote repository*
 
-## It's obvious that studying of a programming requires a lot of time and practice
+## It's obvious that studying of programming requires a lot of time and practice
 So just keep working!
 
 30/07/2022
